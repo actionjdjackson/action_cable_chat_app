@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'ruby',                    '2.7.2'
 gem 'rails',                   '5.2.5'
 gem 'bcrypt',                  '3.1.13'
 gem 'faker',                   '1.6.6'
